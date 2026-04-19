@@ -1,0 +1,184 @@
+[
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "Low",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Low",
+        "speed_mean_bin": "Low",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "Low",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Low",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Low",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Low",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "Medium",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "Low",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "Medium",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "Medium",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "Medium",
+        "decision": "rough"
+    },
+    {
+        "acc_std_bin": "High",
+        "acc_rms_bin": "High",
+        "z_peak_to_peak_bin": "High",
+        "speed_mean_bin": "High",
+        "decision": "smooth"
+    }
+]

@@ -1,0 +1,16 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+env/
+venv/
+.env
+
+# AI/Claude Metadata
+.claude/
+claude_hist.txt
+
+# OS Files
+.DS_Store

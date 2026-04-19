@@ -1,0 +1,8 @@
+{
+    "total_windows": 166,
+    "rst_decisions": 134,
+    "ml_fallback": 32,
+    "rule_coverage_percent": 80.72,
+    "hybrid_accuracy": 0.9819,
+    "rst_accuracy": 0.9851
+}
